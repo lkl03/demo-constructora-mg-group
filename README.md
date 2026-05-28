@@ -1,2 +1,7 @@
-# demo-constructora-mg-group
-Demo web para Constructora Mg Group — diseñada por eterlab.
+# Constructora Mg Group
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
